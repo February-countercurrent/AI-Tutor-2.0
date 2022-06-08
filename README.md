@@ -1,4 +1,5 @@
-# AI_Tutor
+# AI_Tutor 2.0
+### Coparing with 1.0, the running time will be half as previous one. Related function has been optimizated.
 ### This project is the Knowledge Graph-Based QA System, it contains the knowledge extraction part and QA part.
 #### File description
 1. ***Document*** contain the original text for knowledge extraction, the result of SPO triple after extraction, and some library files.
